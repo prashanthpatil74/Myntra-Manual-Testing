@@ -1,0 +1,21 @@
+﻿Requirement ID,Scenario ID,Test Case ID,Description,Status
+MYN_REQ_001,MYN_TS_001,MYN_TC_001,Verify login with valid credentials,Pass
+MYN_REQ_002,MYN_TS_002,MYN_TC_002,Verify login with invalid credentials,Pass
+MYN_REQ_003,MYN_TS_003,MYN_TC_003,Verify product search functionality,Pass
+MYN_REQ_004,MYN_TS_004,MYN_TC_004,Verify product price filter,Pass
+MYN_REQ_005,MYN_TS_005,MYN_TC_005,Verify product sorting functionality,Pass
+MYN_REQ_006,MYN_TS_006,MYN_TC_006,Verify product details page,Pass
+MYN_REQ_007,MYN_TS_007,MYN_TC_007,Verify adding a product to the wishlist,Pass
+MYN_REQ_008,MYN_TS_008,MYN_TC_008,Verify Add to Bag functionality,Pass
+MYN_REQ_009,MYN_TS_009,MYN_TC_009,Verify coupon application and discount calculation,Fail
+MYN_REQ_010,MYN_TS_010,MYN_TC_010,Verify checkout address validation,Pass
+MYN_REQ_011,MYN_TS_011,MYN_TC_011,Verify payment failure handling,Pass
+MYN_REQ_012,MYN_TS_012,MYN_TC_012,Verify order details display,Fail
+MYN_REQ_013,MYN_TS_013,MYN_TC_013,Verify order cancellation,Pass
+MYN_REQ_014,MYN_TS_014,MYN_TC_014,Verify return request submission,Pass
+MYN_REQ_015,MYN_TS_015,MYN_TC_015,Verify product review submission,Pass
+MYN_REQ_016,MYN_TS_016,MYN_TC_016,Verify logout functionality,Pass
+MYN_REQ_017,MYN_TS_017,MYN_TC_017,Verify session timeout,Pass
+MYN_REQ_018,MYN_TS_018,MYN_TC_018,Verify website responsiveness,Pass
+MYN_REQ_019,MYN_TS_019,MYN_TC_019,Verify help and support functionality,Pass
+MYN_REQ_020,MYN_TS_020,MYN_TC_020,Verify wishlist persistence after re-login,Fail

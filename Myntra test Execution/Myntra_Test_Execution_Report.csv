@@ -1,0 +1,11 @@
+﻿Defect ID,Test Scenario,Execution Date,Tester,Actual Result,Status
+MYN_BUG_001,Login with invalid credentials,12 Oct 2026,Prashant Patil,Error message displayed for invalid credentials,Pass
+MYN_BUG_002,Product search displays relevant results,12 Oct 2026,Prashant Patil,Irrelevant products displayed in search results,Fail
+MYN_BUG_003,Verify price filter,12 Oct 2026,Prashant Patil,Products within the selected price range displayed,Pass
+MYN_BUG_004,Verify wishlist functionality,12 Oct 2026,Prashant Patil,Wishlisted product disappeared after re-login,Fail
+MYN_BUG_005,Verify Add to Bag functionality,12 Oct 2026,Prashant Patil,Product successfully added to shopping bag,Pass
+MYN_BUG_006,Verify coupon discount calculation,12 Oct 2026,Prashant Patil,Incorrect discount amount displayed,Fail
+MYN_BUG_007,Validate checkout address,12 Oct 2026,Prashant Patil,Validation message displayed for invalid PIN code,Pass
+MYN_BUG_008,Verify payment failure handling,12 Oct 2026,Prashant Patil,Payment failure message displayed correctly,Pass
+MYN_BUG_009,Verify order details,12 Oct 2026,Prashant Patil,Order details were not displayed,Fail
+MYN_BUG_010,Verify return request submission,12 Oct 2026,Prashant Patil,Return request submitted successfully,Pass

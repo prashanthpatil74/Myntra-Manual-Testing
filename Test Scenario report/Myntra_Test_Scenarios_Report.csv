@@ -1,0 +1,21 @@
+﻿Scenario ID,Scenario Description,Expected Result,Status
+MYN_TS_001,Verify login with valid credentials,User should log in successfully.,Pass
+MYN_TS_002,Verify login with invalid credentials,An appropriate error message should be displayed.,Pass
+MYN_TS_003,Verify product search functionality,Relevant products should be displayed.,Pass
+MYN_TS_004,Verify product price filter,Products within the selected price range should be displayed.,Pass
+MYN_TS_005,Verify product sorting functionality,Products should be sorted according to the selected option.,Pass
+MYN_TS_006,Verify product details page,"Correct product details, price, and available sizes should be displayed.",Pass
+MYN_TS_007,Verify adding a product to the wishlist,The selected product should be added to the wishlist.,Pass
+MYN_TS_008,Verify Add to Bag functionality,The selected product should be added to the shopping bag.,Pass
+MYN_TS_009,Verify coupon application,The correct discount should be applied according to coupon terms.,Fail
+MYN_TS_010,Verify checkout address validation,Invalid address details should be rejected with an appropriate message.,Pass
+MYN_TS_011,Verify payment failure handling,A clear payment failure message should be displayed.,Pass
+MYN_TS_012,Verify order details,Correct order details should be displayed.,Fail
+MYN_TS_013,Verify order cancellation,Eligible orders should be cancelled successfully.,Pass
+MYN_TS_014,Verify return request submission,An eligible return request should be submitted successfully.,Pass
+MYN_TS_015,Verify product review submission,Valid reviews should be submitted successfully.,Pass
+MYN_TS_016,Verify logout functionality,The user should be logged out successfully.,Pass
+MYN_TS_017,Verify session timeout,The application should handle expired sessions securely.,Pass
+MYN_TS_018,Verify website responsiveness,The website should display correctly on supported devices.,Pass
+MYN_TS_019,Verify help and support functionality,Help and support options should work correctly.,Pass
+MYN_TS_020,Verify wishlist persistence after re-login,Saved wishlist products should remain available after re-login.,Fail
